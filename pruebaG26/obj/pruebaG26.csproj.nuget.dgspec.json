@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mikel\\Desktop\\MAP\\P2\\pruebaG26\\pruebaG26.csproj": {}
+    "C:\\UCM3\\MAP\\MAP\\P2\\pruebaG26\\pruebaG26.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mikel\\Desktop\\MAP\\P2\\pruebaG26\\pruebaG26.csproj": {
+    "C:\\UCM3\\MAP\\MAP\\P2\\pruebaG26\\pruebaG26.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mikel\\Desktop\\MAP\\P2\\pruebaG26\\pruebaG26.csproj",
+        "projectUniqueName": "C:\\UCM3\\MAP\\MAP\\P2\\pruebaG26\\pruebaG26.csproj",
         "projectName": "pruebaG26",
-        "projectPath": "C:\\Users\\mikel\\Desktop\\MAP\\P2\\pruebaG26\\pruebaG26.csproj",
+        "projectPath": "C:\\UCM3\\MAP\\MAP\\P2\\pruebaG26\\pruebaG26.csproj",
         "packagesPath": "C:\\Users\\mikel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mikel\\Desktop\\MAP\\P2\\pruebaG26\\obj\\",
+        "outputPath": "C:\\UCM3\\MAP\\MAP\\P2\\pruebaG26\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
