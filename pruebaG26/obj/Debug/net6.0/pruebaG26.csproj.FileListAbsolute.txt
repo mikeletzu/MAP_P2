@@ -1,0 +1,14 @@
+G:\P2MAP_5\MAP_P2\pruebaG26\bin\Debug\net6.0\pruebaG26.exe
+G:\P2MAP_5\MAP_P2\pruebaG26\bin\Debug\net6.0\pruebaG26.deps.json
+G:\P2MAP_5\MAP_P2\pruebaG26\bin\Debug\net6.0\pruebaG26.runtimeconfig.json
+G:\P2MAP_5\MAP_P2\pruebaG26\bin\Debug\net6.0\pruebaG26.dll
+G:\P2MAP_5\MAP_P2\pruebaG26\bin\Debug\net6.0\pruebaG26.pdb
+G:\P2MAP_5\MAP_P2\pruebaG26\obj\Debug\net6.0\pruebaG26.GeneratedMSBuildEditorConfig.editorconfig
+G:\P2MAP_5\MAP_P2\pruebaG26\obj\Debug\net6.0\pruebaG26.AssemblyInfoInputs.cache
+G:\P2MAP_5\MAP_P2\pruebaG26\obj\Debug\net6.0\pruebaG26.AssemblyInfo.cs
+G:\P2MAP_5\MAP_P2\pruebaG26\obj\Debug\net6.0\pruebaG26.csproj.CoreCompileInputs.cache
+G:\P2MAP_5\MAP_P2\pruebaG26\obj\Debug\net6.0\pruebaG26.dll
+G:\P2MAP_5\MAP_P2\pruebaG26\obj\Debug\net6.0\refint\pruebaG26.dll
+G:\P2MAP_5\MAP_P2\pruebaG26\obj\Debug\net6.0\pruebaG26.pdb
+G:\P2MAP_5\MAP_P2\pruebaG26\obj\Debug\net6.0\pruebaG26.genruntimeconfig.cache
+G:\P2MAP_5\MAP_P2\pruebaG26\obj\Debug\net6.0\ref\pruebaG26.dll
