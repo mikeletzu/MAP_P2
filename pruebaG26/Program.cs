@@ -2,3 +2,4 @@
 Console.WriteLine("Hello, World! Helloooooooo.");
 Console.WriteLine("modificacion para el punto 7");
 Console.WriteLine("modificacion para el punto 7.2");
+Console.WriteLine("modificacion para el punto 6");
